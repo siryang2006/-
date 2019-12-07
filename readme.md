@@ -11,7 +11,6 @@ vi frps.ini
 [common]
 bind_port = 7000
 dashboard_port = 7500
-# dashboard 用户名密码，默认都为 admin
 dashboard_user = admin
 dashboard_pwd = admin
 
