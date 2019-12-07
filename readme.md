@@ -38,7 +38,7 @@ sudo systemctl status frps
   
 5.阿里云配置安全组规则，添加7000 7500 3389  
   
-6.windows下载frpc  
+6.windows下载frpc(https://github.com/fatedier/frp/releases)  
   
 7.编辑 frpc.ini  
   
